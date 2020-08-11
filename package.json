@@ -11,8 +11,7 @@
   },
   "scripts": {
     "start": "nps",
-    "test": "nps test",
-    "precommit": "lint-staged && opt --in pre-commit --exec \"npm start validate\""
+    "test": "nps test"
   },
   "files": [
     "dist"
